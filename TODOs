@@ -1,0 +1,3 @@
+- When changing directories it goes to a random image (I guess cache) (When opening a new image/dir the current image is set to the first image in the opened directory)
+- Mask alpha resets after changing image when navigating, should maintain value
+- Add support for automatic segmentation mininetwork.

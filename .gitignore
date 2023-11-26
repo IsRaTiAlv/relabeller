@@ -1,0 +1,7 @@
+*.log
+*.mp4
+*.zip
+models/*.onnx
+*/*checkpoints
+*/*__pycache__
+.idea
